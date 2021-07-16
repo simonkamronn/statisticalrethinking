@@ -1,0 +1,1 @@
+Statistical Rethinking practise solutions
